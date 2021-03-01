@@ -1,4 +1,9 @@
-Our codes are based on TensorFlow 2.0
+This is a implement of our paper:
+A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks
+
+
+# TensorFlow Version
+Our codes are based on TensorFlow-GPU 2.0
 
 
 # Main Function Files:
@@ -23,3 +28,6 @@ Our codes are based on TensorFlow 2.0
 
 # Other Files:
 "UAP": perturbations used for black-box attacks
+
+# Coding Reference:
+[1] https://github.com/meysamsadeghi/Security-and-Robustness-of-Deep-Learning-in-Wireless-Communication-Systems
