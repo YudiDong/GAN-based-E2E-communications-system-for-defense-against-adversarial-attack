@@ -15,9 +15,9 @@ Our codes are based on TensorFlow-GPU 2.0
 
 "regular_training_whitebox.py": BLER Peformance of regular training method under white-box attacks
 
-"adversarial_training_blackbox.py": BLER Peformance of regular training method under black-box attacks
+"adversarial_training_blackbox.py": BLER Peformance of adversarial training method under black-box attacks
 
-"adversarial_training_whitebox.py": BLER Peformance of regular training method under white-box attacks
+"adversarial_training_whitebox.py": BLER Peformance of adversarial training method under white-box attacks
 
 # Class Function Files:
 "classes/GAN_Classes.py": Implement for our proposed GAN-based end-to-end system
