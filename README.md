@@ -1,5 +1,6 @@
 This is an implement of our paper:
-A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks
+
+“A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks”
 
 
 # TensorFlow Version
