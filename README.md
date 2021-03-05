@@ -1,6 +1,6 @@
-This is an implement of our paper:
+This is an implement of our pre-print paper:
 
-“A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks”
+Yudi Dong and Huaxia Wang and Yu-Dong Yao, “A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks”, https://arxiv.org/abs/2103.02654
 
 
 # TensorFlow Version
