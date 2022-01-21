@@ -2,6 +2,8 @@ This is an implement of our pre-print paper:
 
 Yudi Dong and Huaxia Wang and Yu-Dong Yao, “A Robust Adversarial Network-Based End-to-End Communications System With Strong Generalization Ability Against Adversarial Attacks”, https://arxiv.org/abs/2103.02654
 
+This paper has been accepted by IEEE ICC 2022. 
+
 
 # TensorFlow Version
 Our codes are based on TensorFlow-GPU 2.0
